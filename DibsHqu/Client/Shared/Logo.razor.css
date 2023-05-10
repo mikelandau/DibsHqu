@@ -1,0 +1,9 @@
+﻿.logo {
+    display: flex;
+    flex-direction: row;
+    font-size: 48px;
+}
+
+.logo-second-word {
+    font-weight: 600;
+}
